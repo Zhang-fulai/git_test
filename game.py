@@ -1,6 +1,5 @@
 import random
 import tkinter as tk
-import unittest
 from tkinter import messagebox as msgbox
 from typing import List
 
